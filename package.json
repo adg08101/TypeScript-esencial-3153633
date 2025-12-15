@@ -1,0 +1,24 @@
+{
+  "name": "typescript-esencial-3153633",
+  "version": "1.0.0",
+  "description": "Este es el repositorio del curso de LinkedIn Learning `TypeScript esencial`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adg08101/TypeScript-esencial-3153633.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adg08101/TypeScript-esencial-3153633/issues"
+  },
+  "homepage": "https://github.com/adg08101/TypeScript-esencial-3153633#readme",
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}
